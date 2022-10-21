@@ -8,7 +8,7 @@ This is a project of the [Scrimba](https://scrimba.com) Frontend Career Path.
 
 The project features a personal dashboard with different widget: cryptocurrency data,  to  lighten or darken a color based on the user's selection. The Hex code is converted into the RGB system in order to alter the color. The design is similar to [Momentum](https://momentumdash.com/) dashborad chrome extension.
 
-Live site: https://color-lighten-darken-by-alphfonti.netlify.app
+Live site: https://personal-dashboard-by-alphfonti.netlify.app
 
 
 ## Concepts I've learned in this project
