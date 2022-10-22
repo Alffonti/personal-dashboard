@@ -4,7 +4,7 @@ This is a project of the [Scrimba](https://scrimba.com) Frontend Career Path.
 
 ## About The Project
 
-![Personal Dashboard screenshot](./screenshot.jpg)
+![Personal Dashboard screenshot](https://user-images.githubusercontent.com/69361901/197352255-574d3428-56c2-438d-81df-789bb7659ffd.png)
 
 The project features a personal dashboard with different widget: cryptocurrency data,  to  lighten or darken a color based on the user's selection. The Hex code is converted into the RGB system in order to alter the color. The design is similar to [Momentum](https://momentumdash.com/) dashborad chrome extension.
 
